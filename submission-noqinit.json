@@ -1,0 +1,21 @@
+{
+	"workflowId": "5b098a97-18b8-4932-8bc6-993e5e9f7635",
+	"title": "Rapid - No Qinit",
+	"creatorId": "1c755bc5-c093-4469-8634-fa8a81eb10fd",
+	"parameters": {
+		"e506cfc1-3452-4878-a3fe-05cd822127fe": "",
+		"db9be147-92d0-4281-e65a-96ced12dc953": "",
+		"61671392-bc2c-4286-db25-8d350ce5fd0f": "",
+		"d387ef16-000b-4311-d569-6aeba171721f": "",
+		"c87494a0-5727-42b2-a6ac-1a451e33b61a": ""
+	},
+	"datasets": {
+		"e9f6e00f-0b5a-4e57-dc82-0167f1c7b3f1": "82d9cd59-a3e7-4e96-a7fb-5e74f328c7c0",
+		"cc7746bd-4c15-41a4-aa2e-6cadd40f723c": "eda0e6d0-fd6f-4af5-ae45-ddaf0834df94",
+		"751e6af8-02bf-454f-d824-b3d522b3c4c3": "abbc884e-a839-4658-96c4-de39f8e2830e",
+		"b8af75e9-7ff7-4df0-c6ac-a6cc0b18e9be": "",
+		"e79bd191-0f54-4e77-85b0-91ea97d23627": "7dfca309-1166-4333-9f29-e0aec6f635fa",
+		"b859f2b4-8a55-4f80-c1ff-8a7558df3412": "7d7dea87-7265-4545-aaef-a4ac4cf804ee"
+
+	}
+}
