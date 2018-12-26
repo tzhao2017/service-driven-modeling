@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 13 15:06:22 2015
 
-@author: t-tzhao
-"""
 import random
 import time
 
